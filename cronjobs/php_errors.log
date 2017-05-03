@@ -1,0 +1,252 @@
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:03 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/classes/dbcon.php on line 7
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Undefined variable: conn in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/classes/dbcon.php on line 9
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::more_results(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 24
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 32
+[18-Apr-2017 20:06:04 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /var/www/html/classes/dbcon.php on line 34
+[18-Apr-2017 20:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /var/www/html/cronjobs/pingall.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/cronjobs/pingall.php on line 33
